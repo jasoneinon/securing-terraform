@@ -8,6 +8,9 @@ A better approach is to use a credentials and config file in ~/.aws/, an even be
 meaning when you run the terraform command (plan, apply and destroy) you also have to provide a keystore password: 
 
    ![example01](example/capture01.jpg)
+   
+   
+   ![example02](example/capture02.jpg)
 
 
 ## Environment requirements 
